@@ -15,7 +15,7 @@ Program deluje tako, da vnesemo količino grozdja (ki jo bomo dali v prešo), iz
 
 -količina kisline, ki jo dodamo v taille
 
--količina kisline, ki jo dodamo v cuvee
+-količina kisline, ki jo dodamo v cuvee.
 
 Na posamezni trgatvi imamo možnost "Izbriši" in "Prikaži več". Z gumbom "Izbriši" lahko vneseno trgatev pobrišemo, gumb "Prikaži več" pa nas vodi na podstran, kjer se prikaže še nekaj izračunanih parametrov (na podlagi vnesene količine, sorte in datuma):
 1. količina encimov, ki jih dodamo v taille
