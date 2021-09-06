@@ -3,15 +3,17 @@
 ## Identifikacija trgatve
 
 
-Program je namenjen računanju določenih parametrov, ki se spreminjajo glede na vneseno količino grozdja (ki jo damo v prešo) in sorte (Chardonnay, Rebula in Modri pinot). Za lažje beleženje posameznih trgatev določimo tudi datum posamezne trgatve. Ko damo določeno količino grozdja v prešo, iz njega izstisnemo sok (mošt), v katerega dodamo izračunano količino aditivov (npr. kislina, encimi, čistilo...), kateri nam omogočajo hitrejše sesedanje odvečnih umazanij iz mošta, ki ga naslednji dan pretočimo in stem odstranimo odvečno količino umazanije. Za tem sok začne fermentirati, kateri dokonča svojo fermentacijo v cca. 14 dneh, nato nastane vino. 
+Program je namenjen računanju določenih parametrov, ki se spreminjajo glede na vneseno količino grozdja (ki jo damo v prešo) in sorte (Chardonnay, Rebula in Modri pinot). Za lažje beleženje posameznih trgatev določimo tudi datum posamezne trgatve. Ko damo določeno količino grozdja v prešo, iz njega izstisnemo sok (mošt), v katerega dodamo izračunano količino aditivov (npr. kislina, encimi, čistilo...), kateri nam omogočajo hitrejše sesedanje odvečnih umazanij iz mošta, ki ga naslednji dan pretočimo in s tem odstranimo odvečno količino umazanije. Za tem sok začne fermentirati, kateri dokonča svojo fermentacijo v cca. 14 dneh, nato nastane vino. 
 
 Idejo za izdelavo moje projektne naloge sem dobila doma, saj se moji starši ukvarjajo s pridelavo penečih vin. Tako, sem svojemu očetu v pomoč napisala program, ki mu bo v času trgatve omogočil računalniško računanje posameznih parametrov. 
 
 Program deluje tako, da vnesemo količino grozdja (ki jo bomo dali v prešo), izberemo sorto potrganega grozdja (Chardonnay, Rebula ali Modri pinot) in datum (kdaj je bilo grozdje potrgano). Ko pritisnemo na gumb "Dodaj", program izračuna naslednje parametre in doda trgatev med trgatve:
+
 -količina soka, ki jo dobimo iz vnesene količine grozdja
 -od količine soka izračuna taille (slabši del soka) in cuvee (boljši del soka)
 -količina kisline, ki jo dodamo v taille
 -količina kisline, ki jo dodamo v cuvee
+
 Na posamezni trgatvi imamo možnost "Izbriši" in "Prikaži več". Z gumbom "Izbriši" lahko vneseno trgatev pobrišemo, gumb "Prikaži več" pa nas vodi na podstran, kjer se prikaže še nekaj izračunanih parametrov (na podlagi vnesene količine, sorte in datuma):
 1. količina encimov, ki jih dodamo v taille
 2. količina encimov, ki jih dodamo v cuvee
